@@ -1,6 +1,5 @@
 title: Ethan Moy
-logo: /assets/IMG_4518.jpg
+logo: /assets/IMG_4518.jpg  # Ensure this path is correct and the file exists
 
-
-#show_downloads: true
+#show_downloads: true  # Uncomment if this option is valid
 theme: jekyll-theme-minimal
